@@ -3,7 +3,7 @@
 A simple, console-based **Employee Management System** built using **Java, JDBC, and MySQL**.  
 This project includes a **secure login system**, and full **CRUD operations** for managing employee data.
 
-==============================================================================================
+==================================================================================
 
 ## 🚀 Features
 
@@ -45,7 +45,8 @@ EmployeeProject/
 
 ### Create Database & Tables:
 
-```sql
+```
+sql
 CREATE DATABASE IF NOT EXISTS ems;
 USE ems;
 
@@ -71,18 +72,18 @@ CREATE TABLE employees(
 =======================================================================
     📌 Output Preview-
     ===== EMPLOYEE MANAGEMENT LOGIN =====
-Enter username:
-Enter password:
-Login Successful!
+     Enter username:
+     Enter password:
+     Login Successful!
 
 ===== EMPLOYEE MANAGEMENT SYSTEM =====
-1. Add Employee
-2. View Employees
-3. Update Salary
-4. Delete Employee
-5. Search Employee
-6. Exit
+     1. Add Employee
+     2. View Employees
+     3. Update Salary
+     4. Delete Employee
+     5. Search Employee
+     6. Exit
 ---------------------------------------------
-👤 Author
+    👤 Author
 
-Arman Khan.
+    Arman Khan.
