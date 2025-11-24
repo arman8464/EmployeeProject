@@ -3,7 +3,7 @@
 A simple, console-based **Employee Management System** built using **Java, JDBC, and MySQL**.  
 This project includes a **secure login system**, and full **CRUD operations** for managing employee data.
 
----
+==============================================================================================
 
 ## 🚀 Features
 
